@@ -1,5 +1,5 @@
 # SMARAGD (Stochastic Models ARanged Around Gigantc Datasets)
-Package for the design and implementation of tests of Machine Learning Stochastic models with Large datasets.
+Package for the design and implementation of Machine Learning Stochastic models with Large datasets.
 
 DESCRIPTION of SMARAGD
 
